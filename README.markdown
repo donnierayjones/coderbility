@@ -12,7 +12,6 @@ Add syntax highlighting to [Readability][1].
 
 * [highlight.js][2] - syntax highlighting code
 * [solarized][3] - colorscheme
-* [Yandex][4] - CDN
 
 [1]: http://www.readability.com
 [2]: http://softwaremaniacs.org/soft/highlight/en/
