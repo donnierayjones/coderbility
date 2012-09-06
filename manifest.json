@@ -1,8 +1,8 @@
 {
   "name": "Coderbility",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
-  "description": "Add syntax highlighting to Readability",
+  "description": "Add syntax highlighting to Readability & Instapaper",
   "content_scripts": [
     {
       "matches": [
