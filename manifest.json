@@ -7,7 +7,8 @@
     {
       "matches": [
         "*://www.instapaper.com/*",
-        "*://www.readability.com/*"
+        "*://www.readability.com/*",
+        "*://readability.com/*"
       ],
       "css": ["solarized_light.css", "styles.css"],
       "js": ["jquery.js", "highlight.pack.js", "script.js"]
