@@ -4,11 +4,13 @@ task :package do
     'highlight.pack.js',
     'jquery.js',
     'script.js',
+    'options.css',
+    'options.js',
+    'options.html',
     'icon16.png',
     'icon48.png',
     'icon128.png',
-    'solarized_light.css',
-    'styles.css'
+    'styles/*'
   ]
   filelist = files.join(" ")
   %x[zip package.zip #{filelist}]
